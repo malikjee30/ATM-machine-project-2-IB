@@ -1,0 +1,19 @@
+{
+  "name": "07-ghulam-nasir-atm-machine-cli",
+  "version": "1.0.1",
+  "description": "this project base on ATM machine transaction",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghulam Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
